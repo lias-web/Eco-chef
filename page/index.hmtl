@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta chrset="UTF-8">
+        <meta name="vieport" content="width=device-width, initial-scale=1" />
+        <title>Eco-chef</title>
+    </head>
+    <body>
+        <header>
+            <h1>Eco-chef</h1>
+            <p>No more foodwaste! With Ecoahef you can put your unusefull foods from your fridge and turn them into something tasty and usefull.</p>
+        </header>
+        <main>
+            <section>
+                <fieldset>
+                    <legend>What's on your fridge today?</legend>
+                    <form action="">
+                    <label for="items"></label>
+                    <input type="text" placeholder="tomato,chese,milk e.t.c" id="items" name="items">
+                    <button id="submit">Let's Go</button>
+                    </form>
+                </fieldset>
+            </section>
+        </main>
+        <footer>
+            color mode:
+            Today we saved times food
+            Made by:<a href="#">lias-web</a>
+            est:2026 
+        </footer>
+    </body>
+</html>
